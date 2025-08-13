@@ -28,7 +28,6 @@ cd weather-web-application
 You need an **OpenWeather API key** to fetch weather details.
 
 **Steps:**
-
 1. Go to [OpenWeather](https://home.openweathermap.org/users/sign_up) and create a free account.
 
 2. After signing in, navigate to the API Keys section in your account.
